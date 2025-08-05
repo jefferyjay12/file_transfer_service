@@ -42,6 +42,8 @@ Configure the script:
 
 Edit the script and update the SOURCE_DIR, DEST_USER, DEST_HOST, DEST_DIR, and SSH_KEY_PATH variables according to your setup.
 
+Make sure the KeyPair is in the same directory as the script
+
 Run the script:
 
 bash
